@@ -7,7 +7,7 @@ The LaunchBar actions I daily use.
 
 Default Abbreviation: **CDD**
 
-![Clean Derived Data](http://7xilk1.com1.z0.glb.clouddn.com/Clean Derived Data.png)
+![Clean Derived Data](http://7xilk1.com1.z0.glb.clouddn.com/Clean%20Derived%20Data.png)
 
 The script run in the background, you will receive a notification when the processing is complete. 
 
